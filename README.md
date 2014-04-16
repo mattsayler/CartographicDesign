@@ -84,7 +84,7 @@ Cartographic Design in GIS notes
 * single color gradient suggests changes in values
 * Diverging scheme suggests diverging values or central value
 * White suggests no data, avoid using as class (remember 0 is a measurement)
-* [Color Brewer 2](colorbrewer2.org)
+* [Color Brewer 2](http://colorbrewer2.org)
 
 ### Map Layout
 * Descriptive title
@@ -105,5 +105,5 @@ Cartographic Design in GIS notes
 ### Contact
 * Making maps a Visual Guide... (Krygier)
 * Design Better Maps (Brewer)
-* [MapBliss](mapbliss.com)
+* [MapBliss](http://mapbliss.com)
 * davidmed@stanford.edu
