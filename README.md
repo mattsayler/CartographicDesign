@@ -1,9 +1,6 @@
-CartographicDesign
-==================
-
-Carto graphic Design in GIS notes
-
 ## Cartographic Design in GIS
+
+Cartographic Design in GIS notes
 
 ### What is a Map?
 * Argument
