@@ -102,8 +102,9 @@ Cartographic Design in GIS notes
     * Ungroup things
 * Path/Symplify for smoothing blocky lines
 
-### Contact
-* Making maps a Visual Guide... (Krygier)
-* Design Better Maps (Brewer)
+### Resources
+* Books
+    * Making maps a Visual Guide... (Krygier)
+    * Design Better Maps (Brewer)
 * [MapBliss](http://mapbliss.com)
 * davidmed@stanford.edu
