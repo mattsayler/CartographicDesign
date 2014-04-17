@@ -5,7 +5,7 @@ Cartographic Design in GIS notes
 ### What is a Map?
 * Argument
 * Implied authority
-    * i.e. people following GIS into a lake
+    * i.e. people following GPS into a lake
 * Communication goal
 
 ### Why cartography matters
